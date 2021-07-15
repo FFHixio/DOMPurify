@@ -71,7 +71,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "he": "^1.2.0",
     "jquery": "^3.6.0",
-    "jsdom": "16.x.x",
+    "jsdom": "16.6.0",
     "karma": "^5.1.0",
     "karma-browserstack-launcher": "^1.5.1",
     "karma-chrome-launcher": "^2.2.0",
